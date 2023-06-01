@@ -33,7 +33,7 @@ medicalnewstoday.com#@#[style*="line-height: 0;"]
 #@#a[href^="https://www.googleadservices.com/pagead/aclk?"]
 youtube.com#@#.ytd-compact-promoted-video-renderer
 youtube.com#@#ytd-compact-promoted-video-renderer
-@@||s.nitropay.com/ads-827.js$script
+@@||s.nitropay.com/ads-*.js$script
 backpack.tf###media-rail-right-close,#media-rail-right
 backpack.tf###media-rail-left-close,#media-rail-left
 
