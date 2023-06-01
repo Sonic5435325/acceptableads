@@ -1,0 +1,55 @@
+! Title: Acceptable Ads (No Tracking)
+! Expires: 1 day
+! Description: Allows ads while still blocking trackers
+
+! Cosmetic filters !
+duckduckgo.com#@##ads
+duckduckgo.com#@#.js-results-ads
+duckduckgo.com#@#.results--ads
+google.com#@##tads[aria-label]
+google.com#@#[data-text-ad]
+google.com#@#div[aria-label="Ads"]
+medicalnewstoday.com#@#.css-11k39sg
+medicalnewstoday.com#@#.css-rp3d6
+medicalnewstoday.com#@#hl-adsense
+medicalnewstoday.com#@#.css-1cg0byz
+medicalnewstoday.com#@#[data-ad]
+medicalnewstoday.com#@#[data-empty]
+medicalnewstoday.com#@#div[class^="css-"]:matches-css-before(content: /ADVERTISEMENT/)
+medicalnewstoday.com#@#div[data-dynamic-ads]
+medicalnewstoday.com#@#[style*="line-height: 0;"]
+#@#[id^="google_ads_iframe"]
+#@#ins.adsbygoogle
+#@#[data-adblockkey]
+#@#.container-content__container-relatedlinks
+#@#[data-dynamic-ads]
+#@#iframe[id^="google_ads_frame"]
+#@#a[href^="https://googleads.g.doubleclick.net/pcs/click"]
+#@#.img_ad
+#@#[name^="google_ads_iframe"]
+#@#div[data-google-query-id]
+#@#a[href^="https://www.googleadservices.com/pagead/aclk?"]
+youtube.com#@#.ytd-compact-promoted-video-renderer
+youtube.com#@#ytd-compact-promoted-video-renderer
+@@||s.nitropay.com/ads-827.js$script
+backpack.tf###media-rail-right-close,#media-rail-right
+backpack.tf###media-rail-left-close,#media-rail-left
+
+! Network filters !
+@@||alb.reddit.com^$from=alb.reddit.com
+@@||doubleclick.net^$1p
+@@||googletagservices.com/activeview/js/current/rx_lidar.js$script
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script
+@@||prod.adspsp.com/adb.*.min.js$script
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script
+@@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$script
+@@||securepubads.g.doubleclick.net/pagead/ppub_config?ippd=$xhr
+@@||securepubads.g.doubleclick.net/gampad/ads?$xhr
+@@||safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html$subdocument
+@@||tpc.googlesyndication.com/daca_images/simgad/$image
+@@||tpc.googlesyndication.com/pagead/$script
+@@||tpc.googlesyndication.com/simgad/$image
+||google.com/adsense/domains$badfilter
+||sedoparking.com^$3p,badfilter
+/search/tsc.php?$badfilter
+
