@@ -39,7 +39,7 @@ backpack.tf###media-rail-left-close,#media-rail-left
 
 ! Network filters !
 @@||alb.reddit.com^$document
-@@||doubleclick.net^$1p
+@@||doubleclick.net^$document
 @@||googletagservices.com/activeview/js/current/rx_lidar.js$script
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script
 @@||prod.adspsp.com/adb.*.min.js$script
