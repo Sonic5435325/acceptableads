@@ -20,17 +20,17 @@ medicalnewstoday.com#@#[data-empty]
 medicalnewstoday.com#@#div[class^="css-"]:matches-css-before(content: /ADVERTISEMENT/)
 medicalnewstoday.com#@#div[data-dynamic-ads]
 medicalnewstoday.com#@#[style*="line-height: 0;"]
-#@#[id^="google_ads_iframe"]
-#@#ins.adsbygoogle
+~allsonicgames.net#@#[id^="google_ads_iframe"]
+~allsonicgames.net#@#ins.adsbygoogle
 #@#[data-adblockkey]
 #@#.container-content__container-relatedlinks
 #@#[data-dynamic-ads]
-#@#iframe[id^="google_ads_frame"]
-#@#a[href^="https://googleads.g.doubleclick.net/pcs/click"]
+~allsonicgames.net#@#iframe[id^="google_ads_frame"]
+~allsonicgames.net#@#a[href^="https://googleads.g.doubleclick.net/pcs/click"]
 #@#.img_ad
-#@#[name^="google_ads_iframe"]
-#@#div[data-google-query-id]
-#@#a[href^="https://www.googleadservices.com/pagead/aclk?"]
+~allsonicgames.net#@#[name^="google_ads_iframe"]
+~allsonicgames.net#@#div[data-google-query-id]
+~allsonicgames.net#@#a[href^="https://www.googleadservices.com/pagead/aclk?"]
 youtube.com#@#.ytd-compact-promoted-video-renderer
 youtube.com#@#ytd-compact-promoted-video-renderer
 @@||s.nitropay.com/ads-*.js$script
@@ -41,7 +41,8 @@ backpack.tf###media-rail-left-close,#media-rail-left
 @@||alb.reddit.com^$document
 @@||doubleclick.net^$document
 @@||googletagservices.com/activeview/js/current/rx_lidar.js$script
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=~allsonicgames.net
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=~allsonicgames.net
 @@||prod.adspsp.com/adb.*.min.js$script
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$script
@@ -54,4 +55,3 @@ backpack.tf###media-rail-left-close,#media-rail-left
 ||google.com/adsense/domains$badfilter
 ||sedoparking.com^$3p,badfilter
 /search/tsc.php?$badfilter
-
