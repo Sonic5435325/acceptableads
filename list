@@ -1,6 +1,7 @@
 ! Title: Acceptable Ads (No Tracking)
 ! Expires: 1 day
 ! Description: Allows ads while still blocking trackers
+! Homepage: https://github.com/Sonic5435325/acceptableads
 
 ! Cosmetic filters !
 backpack.tf#@#.panel:has-text(createAd)
