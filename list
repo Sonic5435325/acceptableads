@@ -47,7 +47,7 @@ backpack.tf###media-rail-left-close,#media-rail-left
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$script
 @@||securepubads.g.doubleclick.net/pagead/ppub_config?ippd=$xhr
 @@||securepubads.g.doubleclick.net/gampad/ads?$xhr
-@@||safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html$subdocument
+@@||safeframe.googlesyndication.com/safeframe/
 @@||tpc.googlesyndication.com/daca_images/simgad/$image
 @@||tpc.googlesyndication.com/pagead/$script
 @@||tpc.googlesyndication.com/simgad/$image
