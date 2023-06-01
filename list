@@ -8,6 +8,13 @@ backpack.tf#@#.panel:has-text(createAd)
 duckduckgo.com#@##ads
 duckduckgo.com#@#.js-results-ads
 duckduckgo.com#@#.results--ads
+googleads.g.doubleclick.net#@#a[href^="https://adclick.g.doubleclick.net/"]
+googleads.g.doubleclick.net#@#div[data-google-query-id]
+googleads.g.doubleclick.net#@#iframe[width="728"][height="90"]
+googleads.g.doubleclick.net#@##abgc
+googleads.g.doubleclick.net#@##google-center-div
+googleads.g.doubleclick.net#@##mys-wrapper
+googleads.g.doubleclick.net#@#.img_ad
 google.com#@##tads[aria-label]
 google.com#@#[data-text-ad]
 google.com#@#div[aria-label="Ads"]
@@ -33,7 +40,7 @@ medicalnewstoday.com#@#[style*="line-height: 0;"]
 ~allsonicgames.net#@#a[href^="https://www.googleadservices.com/pagead/aclk?"]
 youtube.com#@#.ytd-compact-promoted-video-renderer
 youtube.com#@#ytd-compact-promoted-video-renderer
-@@||s.nitropay.com/ads-*.js$script
+@@||nitropay.com/ads-*.js$script
 backpack.tf###media-rail-right-close,#media-rail-right
 backpack.tf###media-rail-left-close,#media-rail-left
 
@@ -44,11 +51,12 @@ backpack.tf###media-rail-left-close,#media-rail-left
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=~allsonicgames.net
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=~allsonicgames.net
 @@||prod.adspsp.com/adb.*.min.js$script
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$script
-@@||securepubads.g.doubleclick.net/pagead/ppub_config?ippd=$xhr
-@@||securepubads.g.doubleclick.net/gampad/ads?$xhr
 @@||safeframe.googlesyndication.com/safeframe/
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=~allsonicgames.net
+@@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$script,domain=~allsonicgames.net
+@@||securepubads.g.doubleclick.net/pagead/ppub_config?ippd=$xhr,domain=~allsonicgames.net
+@@||securepubads.g.doubleclick.net/gampad/ads?$xhr,domain=~allsonicgames.net
+@@||static.doubleclick.net/dynamic/$image
 @@||tpc.googlesyndication.com/daca_images/simgad/$image
 @@||tpc.googlesyndication.com/pagead/$script
 @@||tpc.googlesyndication.com/simgad/$image
