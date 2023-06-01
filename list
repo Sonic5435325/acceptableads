@@ -1,6 +1,6 @@
 ! Title: Acceptable Ads (No Tracking)
 ! Expires: 1 day
-! Description: Allows ads while still blocking trackers
+! Description: Allows ads while still blocking trackers and annoying side/sticky ads
 ! Homepage: https://github.com/Sonic5435325/acceptableads
 
 ! Cosmetic filters !
@@ -38,7 +38,7 @@ backpack.tf###media-rail-right-close,#media-rail-right
 backpack.tf###media-rail-left-close,#media-rail-left
 
 ! Network filters !
-@@||alb.reddit.com^$from=alb.reddit.com
+@@||alb.reddit.com^$document
 @@||doubleclick.net^$1p
 @@||googletagservices.com/activeview/js/current/rx_lidar.js$script
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script
