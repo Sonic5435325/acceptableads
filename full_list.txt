@@ -29,7 +29,6 @@ medicalnewstoday.com#@#div[data-dynamic-ads]
 medicalnewstoday.com#@#[style*="line-height: 0;"]
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#[id^="google_ads_iframe"]
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#ins.adsbygoogle
-#@#[data-adblockkey]
 #@#.container-content__container-relatedlinks
 #@#[data-dynamic-ads]
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#iframe[id^="google_ads_frame"]
