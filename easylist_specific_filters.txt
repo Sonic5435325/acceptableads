@@ -7,6 +7,7 @@
 #@#.container-content__container-relatedlinks
 #@#.img_ad
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#[id^="google_ads_iframe"]
+~allsonicgames.net,~megamangames.net,~pacxon.us#@#[name^="google_ads_iframe"]
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#ins.adsbygoogle
 backpack.tf#@#.panel:has-text(createAd)
 youtube.com#@#.ytd-compact-promoted-video-renderer
