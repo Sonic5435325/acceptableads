@@ -8,6 +8,8 @@
 #@#.img_ad
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#ins.adsbygoogle
 backpack.tf#@#.panel:has-text(createAd)
+youtube.com#@#.ytd-compact-promoted-video-renderer
+youtube.com#@#ytd-compact-promoted-video-renderer
 
 ! @@||alb.reddit.com^$document
 ! Not quite sure about this one, might be some form of click tracking since the domain is mostly tracking through pixels
