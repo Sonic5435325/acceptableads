@@ -1,1 +1,4 @@
-
+! Title: Privacy Respecting/Safe Acceptable Ads
+! Expires: 1 day
+! Description: Exception filters for uBlock filters to run ads
+! Homepage: https://github.com/Sonic5435325/acceptableads
