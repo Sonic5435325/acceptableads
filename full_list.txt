@@ -33,7 +33,6 @@ medicalnewstoday.com#@#[style*="line-height: 0;"]
 #@#[data-dynamic-ads]
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#iframe[id^="google_ads_frame"]
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#a[href^="https://googleads.g.doubleclick.net/pcs/click"]
-#@#.img_ad
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#[name^="google_ads_iframe"]
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#div[data-google-query-id]
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#a[href^="https://www.googleadservices.com/pagead/aclk?"]
