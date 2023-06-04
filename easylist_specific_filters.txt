@@ -4,6 +4,7 @@
 ! Homepage: https://github.com/Sonic5435325/acceptableads
 
 ! Cosmetic Filters
+
 #@#.container-content__container-relatedlinks
 #@#.img_ad
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#[id^="google_ads_iframe"]
@@ -12,6 +13,8 @@
 backpack.tf#@#.panel:has-text(createAd)
 youtube.com#@#.ytd-compact-promoted-video-renderer
 youtube.com#@#ytd-compact-promoted-video-renderer
+
+! Network Filters
 
 ! @@||alb.reddit.com^$document
 ! Not quite sure about this one, might be some form of click tracking since the domain is mostly tracking through pixels
