@@ -8,7 +8,16 @@
 #@#.img_ad
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#ins.adsbygoogle
 backpack.tf#@#.panel:has-text(createAd)
+
+! @@||alb.reddit.com^$document
+! Not quite sure about this one, might be some form of click tracking
+
+@@||doubleclick.net^$document
+@@||googletagservices.com/activeview/js/current/rx_lidar.js$script
 @@||nitropay.com/ads-*.js$script
+@@||prod.adspsp.com/adb.*.min.js$script
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=~allsonicgames.net|~megamangames.net|~pacxon.us
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=~allsonicgames.net|~megamangames.net|~pacxon.us
 @@||safeframe.googlesyndication.com/safeframe/
 @@||securepubads.g.doubleclick.net/gampad/ads?$xhr,domain=~allsonicgames.net|~megamangames.net|~pacxon.us
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$script,domain=~allsonicgames.net|~megamangames.net|~pacxon.us
