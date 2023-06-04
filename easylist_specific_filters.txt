@@ -3,6 +3,7 @@
 ! Description: Exception filters for EasyList to run ads
 ! Homepage: https://github.com/Sonic5435325/acceptableads
 
-#@#ins.adsbygoogle
+
 #@#.container-content__container-relatedlinks
+~allsonicgames.net,~megamangames.net,~pacxon.us#@#ins.adsbygoogle
 backpack.tf#@#.panel:has-text(createAd)
