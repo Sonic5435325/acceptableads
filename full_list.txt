@@ -1,6 +1,6 @@
 ! Title: Privacy Respecting/Safe Acceptable Ads
 ! Expires: 1 day
-! Description: Allows ads while still blocking as many trackers, malicious, video ads, and annoying sticky ads as possible
+! Description: Allows ads while still blocking as many trackers, malicious, video ads, and annoying sticky ads as possible. Do NOT use this filter list if you hate any sort of advertisement.
 ! Homepage: https://github.com/Sonic5435325/acceptableads
 
 !#include easylist_specific_filters.txt
