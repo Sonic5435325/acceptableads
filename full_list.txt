@@ -6,7 +6,6 @@
 !#include easylist_specific_filters.txt
 !#include ublock_specific_filters.txt
 
-! Cosmetic filters !
 duckduckgo.com#@##ads
 duckduckgo.com#@#.js-results-ads
 duckduckgo.com#@#.results--ads
@@ -38,11 +37,3 @@ medicalnewstoday.com#@#[style*="line-height: 0;"]
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#a[href^="https://www.googleadservices.com/pagead/aclk?"]
 backpack.tf###media-rail-right-close,#media-rail-right
 backpack.tf###media-rail-left-close,#media-rail-left
-
-! Network filters !
-@@||alb.reddit.com^$document
-@@||doubleclick.net^$document
-@@||googletagservices.com/activeview/js/current/rx_lidar.js$script
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=~allsonicgames.net|~megamangames.net|~pacxon.us
-@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=~allsonicgames.net|~megamangames.net|~pacxon.us
-@@||prod.adspsp.com/adb.*.min.js$script
