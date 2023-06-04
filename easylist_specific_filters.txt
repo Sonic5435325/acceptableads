@@ -7,3 +7,4 @@
 #@#.container-content__container-relatedlinks
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#ins.adsbygoogle
 backpack.tf#@#.panel:has-text(createAd)
+@@||nitropay.com/ads-*.js$script
