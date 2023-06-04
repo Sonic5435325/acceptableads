@@ -32,3 +32,4 @@ youtube.com#@#ytd-compact-promoted-video-renderer
 ||google.com/adsense/domains$badfilter
 ||sedoparking.com^$3p,badfilter
 /search/tsc.php?$badfilter
+
