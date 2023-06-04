@@ -48,15 +48,3 @@ backpack.tf###media-rail-left-close,#media-rail-left
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=~allsonicgames.net|~megamangames.net|~pacxon.us
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=~allsonicgames.net|~megamangames.net|~pacxon.us
 @@||prod.adspsp.com/adb.*.min.js$script
-@@||safeframe.googlesyndication.com/safeframe/
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=~allsonicgames.net|~megamangames.net|~pacxon.us
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$script,domain=~allsonicgames.net|~megamangames.net|~pacxon.us
-@@||securepubads.g.doubleclick.net/pagead/ppub_config?ippd=$xhr,domain=~allsonicgames.net|~megamangames.net|~pacxon.us
-@@||securepubads.g.doubleclick.net/gampad/ads?$xhr,domain=~allsonicgames.net|~megamangames.net|~pacxon.us
-@@||static.doubleclick.net/dynamic/$image
-@@||tpc.googlesyndication.com/daca_images/simgad/$image
-@@||tpc.googlesyndication.com/pagead/$script
-@@||tpc.googlesyndication.com/simgad/$image
-||google.com/adsense/domains$badfilter
-||sedoparking.com^$3p,badfilter
-/search/tsc.php?$badfilter
