@@ -39,7 +39,6 @@ medicalnewstoday.com#@#[style*="line-height: 0;"]
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#a[href^="https://www.googleadservices.com/pagead/aclk?"]
 youtube.com#@#.ytd-compact-promoted-video-renderer
 youtube.com#@#ytd-compact-promoted-video-renderer
-@@||nitropay.com/ads-*.js$script
 backpack.tf###media-rail-right-close,#media-rail-right
 backpack.tf###media-rail-left-close,#media-rail-left
 
