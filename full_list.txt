@@ -1,4 +1,4 @@
-! Title: Acceptable Ads (No Tracking)
+! Title: Privacy Respecting/Safe Acceptable Ads
 ! Expires: 1 day
 ! Description: Allows ads while still blocking trackers and annoying side/sticky/video (And even malicious) ads
 ! Homepage: https://github.com/Sonic5435325/acceptableads
