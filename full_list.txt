@@ -4,7 +4,6 @@
 ! Homepage: https://github.com/Sonic5435325/acceptableads
 
 ! Cosmetic filters !
-backpack.tf#@#.panel:has-text(createAd)
 duckduckgo.com#@##ads
 duckduckgo.com#@#.js-results-ads
 duckduckgo.com#@#.results--ads
