@@ -5,6 +5,7 @@
 
 ! Cosmetic Filters
 #@#.container-content__container-relatedlinks
+#@#.img_ad
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#ins.adsbygoogle
 backpack.tf#@#.panel:has-text(createAd)
 @@||nitropay.com/ads-*.js$script
