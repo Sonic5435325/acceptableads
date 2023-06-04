@@ -10,7 +10,7 @@
 backpack.tf#@#.panel:has-text(createAd)
 
 ! @@||alb.reddit.com^$document
-! Not quite sure about this one, might be some form of click tracking
+! Not quite sure about this one, might be some form of click tracking since the domain is mostly tracking through pixels
 
 @@||doubleclick.net^$document
 @@||googletagservices.com/activeview/js/current/rx_lidar.js$script
