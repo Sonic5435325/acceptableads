@@ -36,8 +36,6 @@ medicalnewstoday.com#@#[style*="line-height: 0;"]
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#[name^="google_ads_iframe"]
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#div[data-google-query-id]
 ~allsonicgames.net,~megamangames.net,~pacxon.us#@#a[href^="https://www.googleadservices.com/pagead/aclk?"]
-youtube.com#@#.ytd-compact-promoted-video-renderer
-youtube.com#@#ytd-compact-promoted-video-renderer
 backpack.tf###media-rail-right-close,#media-rail-right
 backpack.tf###media-rail-left-close,#media-rail-left
 
