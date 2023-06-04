@@ -3,6 +3,9 @@
 ! Description: Allows ads while still blocking trackers and annoying side/sticky/video (And even malicious) ads
 ! Homepage: https://github.com/Sonic5435325/acceptableads
 
+!#include easylist_specific_filters.txt
+!#include ublock_specific_filters.txt
+
 ! Cosmetic filters !
 duckduckgo.com#@##ads
 duckduckgo.com#@#.js-results-ads
