@@ -25,6 +25,5 @@ medicalnewstoday.com#@#[data-empty]
 medicalnewstoday.com#@#div[class^="css-"]:matches-css-before(content: /ADVERTISEMENT/)
 medicalnewstoday.com#@#div[data-dynamic-ads]
 medicalnewstoday.com#@#[style*="line-height: 0;"]
-#@#[data-dynamic-ads]
 backpack.tf###media-rail-right-close,#media-rail-right
 backpack.tf###media-rail-left-close,#media-rail-left
