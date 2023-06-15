@@ -11,5 +11,4 @@ medicalnewstoday.com#@#.css-rp3d6
 medicalnewstoday.com#@#hl-adsense
 medicalnewstoday.com#@#.css-1cg0byz
 medicalnewstoday.com#@#[data-empty]
-medicalnewstoday.com#@#div[class^="css-"]:matches-css-before(content: /ADVERTISEMENT/)
 medicalnewstoday.com#@#div[data-dynamic-ads]
