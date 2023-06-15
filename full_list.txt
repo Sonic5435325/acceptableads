@@ -15,4 +15,3 @@ medicalnewstoday.com#@#[data-ad]
 medicalnewstoday.com#@#[data-empty]
 medicalnewstoday.com#@#div[class^="css-"]:matches-css-before(content: /ADVERTISEMENT/)
 medicalnewstoday.com#@#div[data-dynamic-ads]
-medicalnewstoday.com#@#[style*="line-height: 0;"]
