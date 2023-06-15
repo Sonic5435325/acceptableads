@@ -11,7 +11,6 @@ backpack.tf###media-rail-left-close,#media-rail-left
 #@#.img_ad
 #@#[data-dynamic-ads]
 #@#div[aria-label="Ads"]
-#@#div[data-google-query-id]
 ~allsonicgames.net,~cnet.com,~cnn.com,~currentresults.com,~dailymail.co.uk,~megamangames.net,~pacxon.us#@#[id^="google_ads_iframe"]
 ~allsonicgames.net,~cnet.com,~cnn.com,~currentresults.com,~dailymail.co.uk,~megamangames.net,~pacxon.us#@#[name^="google_ads_iframe"]
 ~allsonicgames.net,~cnet.com,~cnn.com,~currentresults.com,~dailymail.co.uk,~megamangames.net,~pacxon.us#@#a[href^="https://googleads.g.doubleclick.net/pcs/click"]
