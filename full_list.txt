@@ -6,9 +6,6 @@
 !#include easylist_specific_filters.txt
 !#include ublock_specific_filters.txt
 
-duckduckgo.com#@##ads
-duckduckgo.com#@#.js-results-ads
-duckduckgo.com#@#.results--ads
 googleads.g.doubleclick.net#@#a[href^="https://adclick.g.doubleclick.net/"]
 googleads.g.doubleclick.net#@#div[data-google-query-id]
 googleads.g.doubleclick.net#@##abgc
