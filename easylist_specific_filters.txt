@@ -18,6 +18,7 @@ backpack.tf###media-rail-left-close,#media-rail-left
 ~allsonicgames.net,~cnet.com,~cnn.com,~currentresults.com,~dailymail.co.uk,~megamangames.net,~pacxon.us#@#div[data-google-query-id]
 ~allsonicgames.net,~cnet.com,~cnn.com,~currentresults.com,~dailymail.co.uk,~megamangames.net,~pacxon.us#@#ins.adsbygoogle
 backpack.tf#@#.panel:has-text(createAd)
+greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com#@#[data-ad]
 greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com#@#[style*="line-height: 0;"]
 teamfortress.tv#@#.sau
 
