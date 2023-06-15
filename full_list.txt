@@ -6,7 +6,6 @@
 !#include easylist_specific_filters.txt
 !#include ublock_specific_filters.txt
 
-googleads.g.doubleclick.net#@#a[href^="https://adclick.g.doubleclick.net/"]
 medicalnewstoday.com#@#.css-11k39sg
 medicalnewstoday.com#@#.css-rp3d6
 medicalnewstoday.com#@#hl-adsense
