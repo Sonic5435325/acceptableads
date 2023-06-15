@@ -17,8 +17,6 @@
 ~allsonicgames.net,~cnet.com,~cnn.com,~currentresults.com,~dailymail.co.uk,~megamangames.net,~pacxon.us#@#ins.adsbygoogle
 backpack.tf#@#.panel:has-text(createAd)
 teamfortress.tv#@#.sau
-youtube.com#@#.ytd-compact-promoted-video-renderer
-youtube.com#@#ytd-compact-promoted-video-renderer
 
 ! Network Filters
 
