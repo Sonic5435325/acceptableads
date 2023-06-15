@@ -1,6 +1,6 @@
 ! Title: Privacy Respecting/Safe Acceptable Ads - uBlock Filters
 ! Expires: 1 day
-! Description: Exception filters for uBlock filters to run ads
+! Description: Exception filters for uBlock Origin to run ads
 ! Homepage: https://github.com/Sonic5435325/acceptableads
 
 ! Cosmetic Filters
