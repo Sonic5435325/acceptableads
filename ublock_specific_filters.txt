@@ -7,7 +7,6 @@
 googleads.g.doubleclick.net#@##abgc
 googleads.g.doubleclick.net#@##google-center-div
 googleads.g.doubleclick.net#@##mys-wrapper
-watson.de#@#[data-ad]
 
 ! Network Filters
 *$domain=googleads.g.doubleclick.net,badfilter
