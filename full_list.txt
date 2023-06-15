@@ -7,7 +7,6 @@
 !#include ublock_specific_filters.txt
 
 googleads.g.doubleclick.net#@#a[href^="https://adclick.g.doubleclick.net/"]
-googleads.g.doubleclick.net#@#div[data-google-query-id]
 googleads.g.doubleclick.net#@##abgc
 medicalnewstoday.com#@#.css-11k39sg
 medicalnewstoday.com#@#.css-rp3d6
