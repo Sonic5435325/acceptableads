@@ -15,7 +15,6 @@ googleads.g.doubleclick.net#@#iframe[width="728"][height="90"]
 googleads.g.doubleclick.net#@##abgc
 googleads.g.doubleclick.net#@##google-center-div
 googleads.g.doubleclick.net#@##mys-wrapper
-google.com#@#[data-text-ad]
 medicalnewstoday.com#@#.css-11k39sg
 medicalnewstoday.com#@#.css-rp3d6
 medicalnewstoday.com#@#hl-adsense
