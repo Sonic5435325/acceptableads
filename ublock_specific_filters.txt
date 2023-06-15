@@ -4,5 +4,7 @@
 ! Homepage: https://github.com/Sonic5435325/acceptableads
 
 ! Cosmetic Filters
+googleads.g.doubleclick.net#@##google-center-div
+googleads.g.doubleclick.net#@##mys-wrapper
 
 ! Network Filters
