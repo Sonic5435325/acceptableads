@@ -5,6 +5,7 @@
 
 ! Cosmetic Filters
 
+azlyrics.com##.noprint:nth-of-type(9):has(tonefuse-ad)
 backpack.tf###media-rail-right-close,#media-rail-right
 backpack.tf###media-rail-left-close,#media-rail-left
 #@#.container-content__container-relatedlinks
@@ -44,4 +45,5 @@ teamfortress.tv#@#.sau
 @@||tpc.googlesyndication.com/simgad/$image
 ||google.com/adsense/domains$badfilter
 ||sedoparking.com^$3p,badfilter
+||srv.tunefindforfans.com^$badfilter
 /search/tsc.php?$badfilter
