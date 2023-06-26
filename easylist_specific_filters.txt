@@ -5,7 +5,7 @@
 
 ! Cosmetic Filters
 
-azlyrics.com##.noprint:nth-of-type(9):has(tonefuse-ad)
+azlyrics.com##.noprint:has(tonefuse-ad)
 backpack.tf###media-rail-right-close,#media-rail-right
 backpack.tf###media-rail-left-close,#media-rail-left
 #@#.container-content__container-relatedlinks
