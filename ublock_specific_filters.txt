@@ -4,6 +4,10 @@
 ! Homepage: https://github.com/Sonic5435325/acceptableads
 
 ! Cosmetic Filters
+#@#.div-gpt-ad:not([style^="width: 1px; height: 1px; position: absolute; left: -10000px; top: -"])
+#@#[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; position: absolute; left: -10000px; top: -"])
+#@#[id^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; position: absolute; left: -10000px; top: -"])
+#@#div[id^="div-gpt-"]:not([style^="width: 1px; height: 1px; position: absolute; left: -10000px; top: -"])
 googleads.g.doubleclick.net#@##abgc
 googleads.g.doubleclick.net#@##google-center-div
 googleads.g.doubleclick.net#@##mys-wrapper
