@@ -10,3 +10,4 @@ I will only focus on making exception filters for EasyList and the uBlock - Ads 
 - Video ads. Self-explanatory, just plain annoying.
 - Taboola, Outbrain, popup ads
 - Ads which lead to malware. I'll likely block ads on the site if this is the case.
+- Trackers associated with ads.
