@@ -34,7 +34,7 @@ teamfortress.tv#@#.sau
 @@||prod.adspsp.com/adb.*.min.js$script
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=~allsonicgames.net|~cnet.com|~cnn.com|~currentresults.com|~dailymail.co.uk|~megamangames.net|~pacxon.us
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=~allsonicgames.net|~cnet.com|~cnn.com|~currentresults.com|~dailymail.co.uk|~megamangames.net|~pacxon.us
-@@||safeframe.googlesyndication.com/safeframe/
+@@||safeframe.googlesyndication.com^
 @@||securepubads.g.doubleclick.net/gampad/ads?$xhr,domain=~allsonicgames.net|~cnet.com|~cnn.com|~currentresults.com|~dailymail.co.uk|~megamangames.net|~pacxon.us
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$script,domain=~allsonicgames.net|~cnet.com|~cnn.com|~currentresults.com|~dailymail.co.uk|~megamangames.net|~pacxon.us
 @@||securepubads.g.doubleclick.net/pagead/ppub_config?ippd=$xhr,domain=~allsonicgames.net|~cnet.com|~cnn.com|~currentresults.com|~dailymail.co.uk|~megamangames.net|~pacxon.us
